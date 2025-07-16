@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="osgiProject" value="true"/>
+	<item key="generatePluginActivator" value="true"/>
+	<item key="apiAnalysis" value="false"/>
+	<item key="rcpPlugin" value="false"/>
+	<list key="providers">
+		<item value="MTIT"/>
+	</list>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="PDEFormActionManager">
+	</section>
+	<section name="org.eclipse.pde.ui.PLUGIN_STATUS_DIALOG">
+		<item key="DIALOG_WIDTH" value="418"/>
+		<item key="DIALOG_HEIGHT" value="413"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="targetStateView">
+	</section>
+	<section name="PluginExportWizard">
+		<item key="exportType" value="1"/>
+		<item key="destination0" value="D:\SA assignment1"/>
+		<item key="destination1" value="D:\SA assignment1"/>
+		<item key="exportUpdate" value="true"/>
+		<item key="exportSource" value="false"/>
+		<item key="exportSourceFormat" value="Generate source bundles"/>
+		<item key="saveAsAnt" value="false"/>
+		<item key="qualifier" value="false"/>
+		<item key="qualifierName" value="202503100025"/>
+		<item key="allowBinaryCycles" value="true"/>
+		<item key="useWorkspaceCompiledClasses" value="false"/>
+		<item key="signJAR" value="false"/>
+	</section>
+</section>
