@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: InsuranceVerificationConsumer
+Bundle-SymbolicName: InsuranceVerificationConsumer
+Bundle-Activator: insuranceverificationconsumer.InsuaranceVerificationActivator
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Import-Package: insuranceverificationpublisher,
+ org.osgi.framework;version="1.3.0"
+
+
+
+

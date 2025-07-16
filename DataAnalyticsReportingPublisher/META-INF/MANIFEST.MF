@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: dataanalyticsreportingpublisher
+Bundle-SymbolicName: dataanalyticsreportingpublisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: dataanalyticsreportingpublisher.DataAnalyticsReportingActivator
+Export-Package: dataanalyticsreportingpublisher
+Import-Package: org.osgi.framework , insuranceverificationpublisher
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+
+
+
+
+
